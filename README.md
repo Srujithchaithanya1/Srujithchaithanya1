@@ -5,10 +5,9 @@
 ---
 
 ## 🧠 About Me
-
+*** 🏆 ICPC Regionalist**
 * 💻 Software Engineer with experience in Angular, Python, AWS, and DynamoDB
 * 🧩 Strong problem-solving background
-* 🏆 ICPC Regionalist
 * ⚔️ LeetCode Knight
 * 🌱 Currently exploring Open Source & preparing for GSoC
 * 🎯 Interested in system design, scalable applications, and AI/ML
@@ -60,7 +59,7 @@
 ## 📫 Contact
 
 * 📧 Email: [srujithchaithanya@gmail.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [(add link)](https://www.linkedin.com/in/srujith-chaithanya-b9aa881b8/?originalSubdomain=in)
+* 💼 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/srujith-chaithanya-b9aa881b8/?originalSubdomain=in)
 
 ---
 
