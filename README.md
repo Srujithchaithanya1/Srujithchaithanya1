@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-*** 🏆 ICPC Regionalist**
+* 🏆 ICPC Regionalist - Olympics of Programming*
 * 💻 Software Engineer with experience in Angular, Python, AWS, and DynamoDB
 * 🧩 Strong problem-solving background
 * ⚔️ LeetCode Knight
